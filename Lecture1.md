@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Gnostic Yahweh: The Mystic-Pagan Roots of the Bible (discussion group)](#gnostic-yahweh-the-mystic-pagan-roots-of-the-bible-discussion-group)
+- [Lecture I: Overview](#lecture-i-overview)
+  - [Introduction: Authorship](#introduction-authorship)
+    - [Who wrote the Bible?](#who-wrote-the-bible)
+    - [The Documentary Hypothesis](#the-documentary-hypothesis)
+    - [Monotheism or Henotheism?](#monotheism-or-henotheism)
+    - [Overview of Ancient Semitic Deities](#overview-of-ancient-semitic-deities)
+    - [Further Reading](#further-reading)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ![Alt text](http://www.silverhoofs.com/seals/solomon/7mars.jpg)
 # Gnostic Yahweh: The Mystic-Pagan Roots of the Bible (discussion group)
 # Lecture I: Overview
