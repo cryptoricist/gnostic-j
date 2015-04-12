@@ -41,14 +41,21 @@
 ### Overview of Ancient Semitic Deities
 - However, many of these stories share themes, memes, and a general cultural context with surrounding religious-cultural practices.
 - Marduk - Heroic "alpha-God", 
+
 ![Alt text](http://wisdomlib.org/uploads/images/marduk-vs-tiamat.jpg)
+
 ()Marduk slaying Tiamat)
 - Tiamat - Primordial dragon, whose slayen corpse is used to create the world
+
 ![Alt text](http://paganpages.org/content/wp-content/uploads/2010/03/ishtar_2.jpg)
+
 - Ishtar-Inanna-Astarte
+
 ![Alt text](http://static.newworldencyclopedia.org/thumb/3/35/Baal_thunderbolt_Louvre_AO15775.jpg/150px-Baal_thunderbolt_Louvre_AO15775.jpg)
+
 - Baal-Mot-Yaw cycle
 - Yaw/Yam - God of the Sea
 
 ### Further Reading
+
 https://github.com/cryptoricist/gnostic-j
