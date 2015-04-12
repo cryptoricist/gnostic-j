@@ -39,7 +39,7 @@
 - Only much later in the time of Jesus, would other pagan gods be regarded as demonic forces, but even during the exile, prophets were beginning to suggest that the Babylonian exile was God's punishment for Israel's transgressions.
 
 ### Overview of Ancient Semitic Deities
-- However, many of these stories share themes with the 
+- However, many of these stories share themes, memes, and a general cultural context with surrounding religious-cultural practices.
 - Marduk - Heroic "alpha-God", 
 ![Alt text](http://wisdomlib.org/uploads/images/marduk-vs-tiamat.jpg)
 ()Marduk slaying Tiamat)
@@ -50,4 +50,5 @@
 - Baal-Mot-Yaw cycle
 - Yaw/Yam - God of the Sea
 
-###
+### Further Reading
+https://github.com/cryptoricist/gnostic-j
